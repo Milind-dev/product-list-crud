@@ -8,7 +8,7 @@
 ## here i using react query (tanstack) and react , stylesheep module css, better look framer
 1. add , View , delete  data complete
 2. here tanstack all query add , delete , view are handling by cache  ,  all data are caching. Confirming tanstack devtool are here i visible on localmachine not deployment  
-3. page are not refresh adding data 
+3. page are not refresh  data again and again, when  adding data to list 
 4. server is not deploy because netlify not given backend deployment ,so download code and run  with that command so 
     1.  step  - download project and run this comman
     npx json-server --watch db.json --port 3001
