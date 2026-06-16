@@ -14,5 +14,6 @@
     npx json-server --watch db.json --port 3001
     2. step - go to live url and see data will be update 
   Note - i give you screenrecording to you working project
-5 - responsive ui and validation 
-6-  deploy ui in netlify
+5.  responsive ui and validation 
+6.  deploy ui in netlify
+7. https://brilliant-druid-284f97.netlify.app/ 
