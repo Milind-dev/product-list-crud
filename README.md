@@ -5,7 +5,7 @@
 * Handle loading, error, and success states properly.
 * Deploy the application on a free hosting platform (Vercel/Netlify)
 
-##here i using react query (tanstack) and react , stylesheep module css, better look framer
+## here i using react query (tanstack) and react , stylesheep module css, better look framer
 1. add , View , delete  data complete 
 3. page are not refresh adding data 
 2. server is not deploy because netlify not given backend deployment ,so download code and run  with that command so 
