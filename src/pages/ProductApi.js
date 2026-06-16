@@ -31,4 +31,10 @@ const addProductList = async (add_product) => {
   return data;
 };
 
-export { getProductList, addProductList };
+const deleteProductList = async (id) => {
+  await fetch(`${REACT_APP_API_URL}/products-lists/${id}`, {
+    method: "DELETE",
+  });
+  return id;
+};
+export { getProductList, addProductList, deleteProductList };

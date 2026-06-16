@@ -1,24 +1,14 @@
 {
   "products-lists": [
     {
-      "id": "1",
-      "name": "Fruit",
-      "price": 500
+      "name": "candy",
+      "price": "8",
+      "id": "jUNaZw1Bgig"
     },
     {
-      "id": "2",
-      "name": "Vegetable",
-      "price": 300
-    },
-    {
-      "name": "he",
-      "price": "43",
-      "id": "mYOTAZanIgU"
-    },
-    {
-      "name": "sda",
-      "price": "dsf",
-      "id": "Pa6X4pxNsvk"
+      "name": "candy",
+      "price": "3",
+      "id": "ot-Jfm3RALY"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

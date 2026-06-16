@@ -4,7 +4,9 @@ import ProductPage from "./pages/ProductPage";
 function App() {
   return (
     <div className="App">
-      <h1>React Query Crud Operation</h1>
+      <div className="App-header">
+        <h1>Grocerry Shop</h1>
+      </div>
       <ProductPage />
     </div>
   );
