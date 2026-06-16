@@ -1,14 +1,14 @@
 {
   "products-lists": [
     {
-      "name": "candy",
-      "price": "8",
-      "id": "jUNaZw1Bgig"
+      "name": "hello",
+      "price": "3",
+      "id": "3cMzCcjggWI"
     },
     {
-      "name": "candy",
-      "price": "3",
-      "id": "ot-Jfm3RALY"
+      "name": "dfsa",
+      "price": "32",
+      "id": "4EFvbh4j1Ig"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
