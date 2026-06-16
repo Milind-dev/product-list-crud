@@ -1,14 +1,25 @@
 {
   "products-lists": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Fruit",
       "price": 500
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Vegetable",
       "price": 300
+    },
+    {
+      "name": "he",
+      "price": "43",
+      "id": "mYOTAZanIgU"
+    },
+    {
+      "name": "sda",
+      "price": "dsf",
+      "id": "Pa6X4pxNsvk"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
