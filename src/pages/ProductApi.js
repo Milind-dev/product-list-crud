@@ -19,4 +19,22 @@ const getProductList = async () => {
   }
 };
 
-export { getProductList };
+const addProductList = async (add_product) => {
+  const res = await fetch(`${REACT_APP_API_URL}/products-lists`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(add_product),
+  });
+  const data = await res.json();
+  return data;
+};
+
+const deleteProductList = async (id) => {
+  await fetch(`${REACT_APP_API_URL}/products-lists/${id}`, {
+    method: "DELETE",
+  });
+  return id;
+};
+export { getProductList, addProductList, deleteProductList };

@@ -1,0 +1,13 @@
+.btnContainer {
+  border: 2px solid gray;
+  border-radius: 5px;
+  /* box-shadow: 2rem; */
+  color: #222222;
+  background-color: whitesmoke;
+  padding: 0.5rem;
+  font-weight: 700;
+}
+
+.btnContainer:hover {
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+}
