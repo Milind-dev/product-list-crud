@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Problem statement
 * Implement all CRUD operations (add, view, edit, delete data).
 * Use React Query to manage API calls and caching.
 * Ensure the page does not refresh unnecessarily (smooth UI updates using caching/invalidation).
